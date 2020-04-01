@@ -1,0 +1,12 @@
+coucou
+a:hover{
+    background-color: gold;
+}
+
+#banniere
+{
+height: 20%; /* La bannière fera 20% de la hauteur de la page... */
+width: 100%; /* et 100% de la largeur. */
+}
+
+
