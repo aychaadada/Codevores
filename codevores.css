@@ -1,12 +1,19 @@
-coucou
+
 a:hover{
     background-color: gold;
 }
 
 #banniere
 {
+    background-color: aqua;
 height: 20%; /* La bannière fera 20% de la hauteur de la page... */
 width: 100%; /* et 100% de la largeur. */
 }
 
-
+.containerrr
+{
+    background-color: beige;
+    height: 10%;
+    min-height: 200px;
+    width: 100%;
+}

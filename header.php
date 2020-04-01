@@ -1,4 +1,4 @@
-<header <div id="banniere">  
+<header id="banniere">  
        <h2>Codevores</h2><br>
        <pre>                      <p>une developpeuse à un clic</p> </pre>
        <h1>Page de la communauté</h1>
