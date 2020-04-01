@@ -1,6 +1,6 @@
 <header <div id="banniere">  
        <h2>Codevores</h2><br>
-       <pre>                       <p>une developpeuse à un clic</p> </pre>
+       <pre>                      <p>une developpeuse à un clic</p> </pre>
        <h1>Page de la communauté</h1>
        <ul>
               <li><a href="pagedinscription.php" >Page d'inscription</a></li>
